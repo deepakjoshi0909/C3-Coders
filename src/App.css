@@ -1,0 +1,10 @@
+Optional CSS if needed to adjust for other layout issues
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .App {
+    position: relative;
+  }
+  
